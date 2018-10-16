@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "circular-json": "0.5.7",
     "debug": "4.1.0",
     "immutability-helper": "2.8.1",
     "pixi-projection": "0.2.1",
