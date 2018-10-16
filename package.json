@@ -1,0 +1,31 @@
+{
+  "name": "exteriorar-7-pototype-final",
+  "version": "1.0.0",
+  "description": "Texture - Set\nScale - Set\nPerspective - Set",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "debug": "4.1.0",
+    "immutability-helper": "2.8.1",
+    "pixi-projection": "0.2.1",
+    "pixi.js": "4.8.2 - latest",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-grid-system": "latest",
+    "react-redux": "latest",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "latest",
+    "redux-saga": "latest",
+    "semantic-ui-react": "0.82.5",
+    "styled-components": "3.4.10",
+    "uuid": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

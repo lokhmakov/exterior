@@ -1,2 +1,0 @@
-# exterior
-Created with CodeSandbox
