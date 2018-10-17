@@ -17,11 +17,11 @@ const App = () => {
       <SpaceProvider>
         <Route
           exact
-          path="/"
+          path='/'
           component={ PageHome }
         />
         <Route
-          path="/editor/:id"
+          path='/editor/:id'
           component={ PageEditor }
         />
       </SpaceProvider>
