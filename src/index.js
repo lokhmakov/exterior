@@ -10,6 +10,8 @@ import SpaceProvider        from 'core/space/all/Provider'
 import PageHome             from 'app/page/web/PageHome'
 import PageEditor           from 'app/page/web/PageEditor'
 
+//import PageHome             from 'core/page/web/PageHome'
+
 
 const App = () => {
   return (
